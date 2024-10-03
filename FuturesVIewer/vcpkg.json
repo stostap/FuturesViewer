@@ -1,0 +1,7 @@
+{
+  "version": "3",
+  "builtin-baseline": "d44ca6920f9e9dc59119ed5ddae828494f57efd0 ",
+  "dependencies": [
+    "nlohmann-json"
+  ]
+}
